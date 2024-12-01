@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1250"
+   height="2500"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46dev+devel"
+   version="1.0"
+   sodipodi:docname="Times New Roman Greek small letter beta symbol.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1006.3125"
+     inkscape:cy="1582.2052"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(532.14288,1359.0664)">
+    <path
+       style="font-size:2048px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2;stroke-dashoffset:0;stroke-opacity:1;font-family:Times New Roman"
+       d="M -303.14288,85.125402 L -303.14288,-388.56641 C -303.14303,-501.89867 -292.97637,-586.23192 -272.64288,-641.56641 C -252.30975,-696.89847 -212.64312,-745.73176 -153.64288,-788.06641 C -94.643238,-830.39834 -20.809978,-851.56499 67.857117,-851.56641 C 173.18983,-851.56499 261.68974,-823.73168 333.35712,-768.06641 C 405.02293,-712.39846 440.85623,-633.23187 440.85712,-530.56641 C 440.85623,-410.56543 383.85628,-312.23219 269.85712,-235.56641 C 439.85623,-155.56568 524.85614,-29.899141 524.85712,141.43359 C 524.85614,234.76726 502.35617,318.26718 457.35712,391.93359 C 412.35626,465.60036 360.35631,518.10031 301.35712,549.43359 C 242.35643,580.76691 171.8565,596.43359 89.857117,596.43359 C -184.34351,596.43357 -303.14288,328.06852 -303.14288,85.125402 z M -138.14288,258.57645 C -138.14288,415.996 -58.509759,530.43358 79.857117,530.43359 C 169.8565,530.43359 235.85643,497.60033 277.85712,431.93359 C 319.85635,366.26713 340.85633,286.43388 340.85712,192.43359 C 340.85633,120.43404 327.02301,46.934115 299.35712,-28.066406 C 271.68973,-103.06573 236.18976,-160.23234 192.85712,-199.56641 C 152.85651,-189.56565 116.85655,-184.56565 84.857117,-184.56641 C 17.523317,-184.56565 -16.143316,-202.2323 -16.142883,-237.56641 C -16.143316,-269.56557 12.189989,-285.56555 68.857117,-285.56641 C 104.1899,-285.56555 148.18985,-277.56556 200.85712,-261.56641 C 248.18975,-341.5655 271.8564,-428.56541 271.85712,-522.56641 C 271.8564,-606.56523 253.35641,-670.8985 216.35712,-715.56641 C 179.35649,-760.23174 131.18987,-782.56506 71.857117,-782.56641 C 24.52331,-782.56506 -15.97665,-769.23174 -49.642883,-742.56641 C -83.309916,-715.89846 -106.47656,-684.06515 -119.14288,-647.06641 C -131.80987,-610.06523 -138.14319,-549.56529 -138.14288,-465.56641 L -138.14288,258.57645 z"
+       id="text2332"
+       sodipodi:nodetypes="cccccccccccsscsccccccccccccscs" />
+  </g>
+</svg>

@@ -2,6 +2,39 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family:'Gilroy-Bold';
+  src: url('/assets/fonts/gilroy/Gilroy-SemiBold.ttf');
+}
+@font-face {
+  font-family:'Gilroy';
+  src: url('/assets/fonts/gilroy/Gilroy-Regular.ttf');
+}
+@font-face {
+  font-family:'Digital';
+  src: url('/assets/fonts/Digital/digital-7.ttf');
+}
+@font-face {
+  font-family:'Inter';
+  src: url('/assets/fonts/Inter_Tight/static/InterTight-Regular.ttf');
+}
+@font-face {
+  font-family:'Inter-Bold';
+  src: url('/assets/fonts/Inter_Tight/static/InterTight-Bold.ttf');
+}
+
+*{
+  font-family:'Inter' ;
+}
+.title{
+  font-family: 'Inter-Bold';
+}
+.Gilroy{
+  font-family: "Gilroy";
+}
+.Digital{
+  font-family: 'Digital';
+}
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -24,4 +57,43 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .text-shadow-custom {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .pink-glow {
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(236, 72, 153, 0.7), 0 0 20px rgba(236, 72, 153, 0.5);
+  }
+  .innerGradient{
+    background:  linear-gradient(90deg,
+    rgba(69, 44, 99, 0.5) 0%,    /* Transparent Purple */
+    rgba(255, 45, 131, 0.5) 100% /* Transparent Pink */
+  );;
+  }
+
 }
+
+
+.BoldGilroy{
+  font-family:'Gilroy-Bold';
+}
+.purpleGradient{
+  background:linear-gradient(#5D2E82 0%, #19121E 100%);
+}
+.textGradient{
+  background: none;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(#F4379C, #4BE3FF);
+}
+
+
+input[type="number"]::-webkit-inner-spin-button,
+        input[type="number"]::-webkit-outer-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+        }
+        input[type="number"] {
+          -moz-appearance: textfield;
+        }
